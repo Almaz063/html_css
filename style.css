@@ -1,0 +1,72 @@
+#a1
+{
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: underline; 
+    text-align: center;
+}
+#a2
+{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+#a3
+{
+    font-weight: bold;
+}
+#a4
+{
+    font-weight: bold;
+    border-bottom: dashed;
+}
+#a5
+{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+#a6
+{
+    background-color: aquamarine;
+    line-height: 1cm;
+}
+#a7
+{
+    background-color: rgb(180, 180, 180);
+}
+.z1
+{
+    border-bottom: dashed;
+}
+.z2
+{
+    color: red;
+    background-color: rgb(180, 180, 180);
+}
+.z3
+{
+    font-style: oblique;
+}
+.z4
+{
+    color: red;
+    padding-left: 1cm;
+}
+.z5
+{
+    color: red;
+    padding-left: 1.8cm;
+}
+.z6
+{
+    padding-left: 2.8cm;
+}
+.z7
+{
+    color: red;
+}
+div
+{
+    border-bottom: 1px solid black;
+}
